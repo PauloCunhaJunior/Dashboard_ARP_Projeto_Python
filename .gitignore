@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.pytest_cache/
+historico_arp.sqlite3
+*.pyc
